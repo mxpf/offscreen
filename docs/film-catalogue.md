@@ -380,7 +380,7 @@ An aspiring actress becomes a Hollywood star with help from an established actor
 
 ## Star Wars (1977)
 
-A young farm worker joins a fugitive princess, a smuggler, and an aging Jedi in a rebellion against an empire's planet-destroying weapon. Starring Mark Hamill, Harrison Ford, Carrie Fisher, and Peter Cushing. 121 minutes.
+A young farm worker joins a fugitive princess, a smuggler, and an aging Jedi in a rebellion against an empire's planet-destroying weapon. Starring Mark Hamill, Harrison Ford, Carrie Fisher, Alec Guinness, and Peter Cushing. 121 minutes.
 
 ## The Strange Love of Martha Ivers (1946)
 
