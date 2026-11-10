@@ -4,7 +4,7 @@ An app for listening to films as you work. Online and for Mac.
 
 Offscreen plays movie soundtracks through a small, radio-like player. Choose a station and tune into whatever is playing. There's no video to watch, and you don't need to follow every scene. Dialogue, music, and quiet passages are all part of the experience.
 
-**[Listen online](https://radio.maxpfennig.haus/)** · **[Download for Mac](https://github.com/mxpf/offscreen/releases/tag/v0.2.0)**
+**[Listen online](https://radio.maxpfennig.haus/)** · **[Download for Mac](https://github.com/mxpf/offscreen/releases/tag/v0.2.1)**
 
 ## Listening
 
@@ -37,7 +37,7 @@ The radio switches between day and night appearances using your local time. The 
 
 The menu bar app keeps playing when you close its panel. Click its icon to bring the radio back, or right-click for power, reload, and quit. It loads the live website, so changes to the radio and catalogue appear without downloading a new app; changes to the Mac app itself need a new build.
 
-It supports Apple silicon and Intel Macs running macOS 15.4 or later and needs an internet connection. The current download is a prerelease and isn't notarized, so macOS may ask you to approve it in Privacy & Security.
+It supports Apple silicon and Intel Macs running macOS 15.4 or later and needs an internet connection. The Mac download isn't notarized, so macOS may ask you to approve it in Privacy & Security.
 
 See the [Mac app README](macos/README.md) for build instructions.
 
